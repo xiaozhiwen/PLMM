@@ -5,7 +5,7 @@
  *
  * @category   PLMM
  * @package    PLMM
- * @copyright  Copyright (c) 2007 PLMM Studio. (http://www.baidu.com)
+ * @copyright  Copyright (c) 2007 PLMM Studio.
  * @version    $Id: PLMM.php 3900 2007-03-13 18:51:49 phphp $
  */
 
